@@ -1,0 +1,6 @@
+*~
+*#*
+dist-newstyle
+.direnv
+TAGS
+.pre-commit-config.yaml
